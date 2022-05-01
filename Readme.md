@@ -1,4 +1,4 @@
-This Project is about CPU Scheduling Algorithim.
+This Project is about CPU Scheduling Algorithm.
 
 It is developed by 4 young Inspring Minds :
 
